@@ -3,14 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ColinJohn的博客
-subtitle: 不忘初心，方得始终。
-description: ColinJohn的博客。不忘初心，方得始终
-keywords:
+title: ColinJohn's blog
+subtitle: 一个安静的coder
+description: 不忘初心，方得始终
 author: ColinJohn
 language: zh-CN
-timezone: Asia/Shanghai
+timezone: 
 
+# 侧边栏头像设置
+avatar: http://www.qqzhi.com/uploadpic/2014-07-14/202739995.jpg
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.freequick.ml
@@ -73,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
